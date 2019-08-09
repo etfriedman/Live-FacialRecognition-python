@@ -1,5 +1,4 @@
-# machine-learning
-Face Recognition in python and Deep neural networks
+# Face Recognition in python and Deep neural networks
 
 Sup.
 
