@@ -2,12 +2,12 @@
 
 ## Use of face_recognition library, edited to train on any number of images that you put inside the /Faces/ Folder.
 
-**Make sure you have:
+**Make sure you have:**
 - os
 - numpy
 - dlib (some tutorials on how to get it online, look it up)
 - face_recognition (get it here: https://github.com/ageitgey/face_recognition)
-- opencv **
+- opencv
 
 most of these come with anaconda, except opencv, dlib.
 
@@ -16,3 +16,5 @@ Inside the folder "Faces" put a .jpg or .jpeg image of someones face, just one f
 press q to stop the webcam.
 
 -Ethan Friedman, 2019
+
+P.S. Thanks to the people who helped develop: https://github.com/ageitgey/face_recognition. Not sure how to let them know about this... thanks anyways.
