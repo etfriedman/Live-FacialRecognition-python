@@ -1,4 +1,4 @@
-# Face Recognition in python using a pre trained DNN (Deep Nueral Network)
+# LIVE Facial Recognition in python using a pre trained DNN (Deep Nueral Network)
 
 ## Use of face_recognition library, edited to train on any number of images that you put inside the /Faces/ Folder.
 
