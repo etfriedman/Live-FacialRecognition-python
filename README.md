@@ -1,4 +1,4 @@
-# LIVE Facial Recognition in python using a pre trained DNN (Deep Nueral Network)
+# Live Facial Recognition in python using a pre NN (Nueral Network)
 
 ## Use of face_recognition library, edited to train on any number of images that you put inside the /Faces/ Folder.
 
@@ -21,4 +21,4 @@ most of these come with anaconda, except opencv, dlib.
 
 -Ethan Friedman, 2019
 
-P.S. Thanks to the people who helped develop: https://github.com/ageitgey/face_recognition. Not sure how to let them know about this... thanks anyways.
+big thanks to the people who helped develop: https://github.com/ageitgey/face_recognition.
