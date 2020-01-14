@@ -1,4 +1,4 @@
-# Live Facial Recognition in python using a pre NN (Nueral Network)
+# Live Facial Recognition in python using dlibs pre-trained model. Some code adapted from face_recognition library.
 
 ## Use of face_recognition library, edited to train on any number of images that you put inside the /Faces/ Folder.
 
